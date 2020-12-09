@@ -1,2 +1,2 @@
 # Integer-Words-Converter
-This program let user enter integer then firmly convert the integer into its words format.  This converter conversion limit is till 4-digits.
+This program lets the user enter an integer then firmly convert the integer into its word format. This converter conversion limit is 4-digits.
